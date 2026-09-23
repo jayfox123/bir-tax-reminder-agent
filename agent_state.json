@@ -9,6 +9,6 @@
     "target_year": 2026,
     "paid": false
   },
-  "last_thread_id": "mock-thread-id-123",
-  "last_notified_date": "2026-10-19"
+  "last_thread_id": null,
+  "last_notified_date": null
 }
